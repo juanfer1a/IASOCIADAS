@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3a/DwSHWd9tJZVOaJyXd2arTSkbviSLDzWlYj40ftZedXb8v32S3K3dN0NYINYTs9TjgfiPPZbu++j8DiCCU4Q==",
+  "success": true,
+  "projectFilePath": "D:\\Proyect\\SFTP\\EnvioSFTP\\EnvioSFTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GTB0005\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512",
+    "C:\\Users\\GTB0005\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\GTB0005\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
